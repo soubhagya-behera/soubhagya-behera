@@ -32,7 +32,7 @@
 
 ### Connect With Me
 
-📧 [soubhagyabehera074@gmail.com](mailto:soubhagyabehera074@gmail.com)
+📧 Email: [soubhagyabehera074@gmail.com](mailto:soubhagyabehera074@gmail.com)
 
 💼 LinkedIn: [linkedin.com/in/soubhagyakumar-java](https://linkedin.com/in/soubhagyakumar-java)
 
