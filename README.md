@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soubhagya-behera/soubhagya-behera/main/banner.png" alt="Soubhagya Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Soubhagya Kumar Behera
 
 ### Java Full Stack Developer | MCA 2026
