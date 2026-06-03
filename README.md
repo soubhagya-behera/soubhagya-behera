@@ -34,6 +34,6 @@
 
 📧 [soubhagyabehera074@gmail.com](mailto:soubhagyabehera074@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/soubhagyakumar-java
+💼 LinkedIn: [linkedin.com/in/soubhagyakumar-java](https://linkedin.com/in/soubhagyakumar-java)
 
 🌐 Portfolio: https://soubhagya-portfolio-olive.vercel.app
