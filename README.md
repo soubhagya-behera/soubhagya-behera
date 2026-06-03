@@ -1,117 +1,39 @@
-# Hi there 👋, I'm Soubhagya Kumar Behera
+# Hi 👋, I'm Soubhagya Kumar Behera
 
 ### Java Full Stack Developer | MCA 2026
 
-🚀 Passionate about building scalable backend systems and full-stack web applications using Java, Spring Boot, React, and MySQL.
+💻 Building scalable applications with Java, Spring Boot, React, and MySQL
 
-🎓 MCA Student at United School of Business Management (USBM), Bhubaneswar
+🎓 MCA Student at USBM, Bhubaneswar
 
-📍 Bhubaneswar, Odisha, India
+🚀 Currently Working On:
 
----
+* GreenCart E-Commerce Platform
+* Data Structures & Algorithms
+* Spring Boot & System Design
 
-## 👨‍💻 About Me
+### Tech Stack
 
-* 🔭 Currently building **GreenCart - Full Stack E-Commerce Platform**
-* 🌱 Learning **Advanced Spring Boot, System Design, Docker and AWS**
-* 💻 Solved **150+ DSA problems**
-* 🏆 Internship Experience as Java Full Stack Developer
-* 🎯 Looking for Java Developer, Backend Developer and Software Engineer opportunities
+* Java * Spring Boot * React.js * MySQL * Spring Security * Hibernate/JPA * REST APIs * Microservices * Docker * AWS * Git & GitHub
 
----
+### Featured Projects
 
-## 🛠️ Tech Stack
+🛒 GreenCart – Full Stack E-Commerce Platform
 
-### Languages
+🏦 Secure Digital Banking Management System
 
-* Java
-* SQL
-* C
+💬 PingMe – Real-Time Chat Application
 
-### Backend
+### Current Goals
 
-* Spring Boot
-* Spring MVC
-* Hibernate
-* JPA
-* Spring Security
-* JWT Authentication
-* REST APIs
-* JDBC
-* Servlets
-* JSP
-
-### Frontend
-
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-
-### Database
-
-* MySQL
-* PostgreSQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Maven
-* Postman
-* Docker
-* AWS
-* JUnit
-* Mockito
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Secure Digital Banking Management System
-
-* Spring Boot + MySQL
-* JWT Authentication
-* OTP Verification
-* Fraud Detection
-* Chatbot Support
-* 30+ REST APIs
-
-### 🛒 GreenCart E-Commerce Platform
-
-* Spring Boot + React
-* Hibernate/JPA
-* Multi-role Authentication
-* Product Management
-* Cart & Order System
-
-### 💬 PingMe Real-Time Chat Application
-
-* Spring Boot
-* WebSocket
-* STOMP
-* React.js
-
----
-
-## 📚 Current Goals
-
-* Complete GreenCart Production Version
 * Reach 300+ DSA Problems
-* Learn Microservices Architecture
-* Master System Design
-* Deploy Full Stack Applications on AWS
+* Learn Microservices
+* Deploy Applications on AWS
 
----
+### Connect With Me
 
-## 📫 Connect With Me
+📧 [soubhagyabehera074@gmail.com](mailto:soubhagyabehera074@gmail.com)
 
-* LinkedIn: https://linkedin.com/in/soubhagyakumar-java
-* GitHub: https://github.com/soubhagya-behera
-* Email: [soubhagyabehera074@gmail.com](mailto:soubhagyabehera074@gmail.com)
+💼 LinkedIn: linkedin.com/in/soubhagyakumar-java
 
----
-
-⭐ Thanks for visiting my profile.
-
+🌐 Portfolio: https://soubhagya-portfolio-olive.vercel.app
