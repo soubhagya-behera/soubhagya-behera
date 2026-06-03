@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soubhagya-behera/soubhagya-behera/main/banner2.png" alt="Soubhagya Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/soubhagya-behera/soubhagya-behera/main/banner3.png" alt="Soubhagya Banner" width="100%">
 </p>
 
 # Hi 👋, I'm Soubhagya Kumar Behera
