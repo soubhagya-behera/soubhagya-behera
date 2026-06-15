@@ -26,6 +26,8 @@
 
 🏦 Secure Digital Banking Management System
 
+🤖 AI Assistant Chrome Extension
+
 💬 PingMe – Real-Time Chat Application
 
 ### Current Goals
