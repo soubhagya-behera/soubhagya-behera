@@ -8,11 +8,11 @@
 
 💻 Building scalable applications with Java, Spring Boot, React, and MySQL
 
-🎓 MCA Student at USBM, Bhubaneswar
+🎓 MCA Graduate, Bhubaneswar
 
 🚀 Currently Working On:
 
-* GreenCart E-Commerce Platform
+* DevScout AI
 * Data Structures & Algorithms
 * Spring Boot & System Design
 
