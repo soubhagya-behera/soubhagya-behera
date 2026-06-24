@@ -30,6 +30,8 @@
 
 💬 PingMe – Real-Time Chat Application
 
+🚀 DevScout AI - GitHub Developer Intelligence Platform
+
 ### Current Goals
 
 * Reach 300+ DSA Problems
