@@ -216,3 +216,43 @@ looking_for:
 </p>
 
 ---
+# 🚀 Featured Projects
+
+<br>
+
+## 🛒 GreenCart
+
+> **Modern Full Stack E-Commerce Platform**
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 🛍️ Product Catalog
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 📦 Order Tracking
+- ⭐ Product Reviews
+- 👨‍💼 Admin Dashboard
+
+<p>
+
+<a href="YOUR_GREENCART_GITHUB">
+
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="YOUR_GREENCART_DEMO">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
