@@ -14,7 +14,7 @@ Building scalable backend systems with Java, Spring Boot & React
 
 <!-- Typing SVG -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;REST+API+Developer;Microservices+Learner;Open+to+Full-Time+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Java+Backend+Developer;REST+API+Developer;Spring+Boot+Enthusiast;Open+To+Work" />
 
 </div>
 
@@ -65,6 +65,3 @@ working_on:
 
 looking_for:
   - Full Time Java Developer Opportunities
-```
-
----
