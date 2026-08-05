@@ -256,3 +256,88 @@ looking_for:
 </p>
 
 ---
+## 🏦 Secure Digital Banking System
+
+> **Secure Banking Management Platform**
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+### ✨ Features
+
+- 💳 Account Management
+- 💸 Fund Transfer
+- 📜 Transaction History
+- 🔐 Secure Authentication
+- 👨‍💼 Admin Controls
+
+<p>
+
+<a href="YOUR_BANKING_GITHUB">
+
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+## 🤖 DevScout AI
+
+> **GitHub Developer Intelligence Platform**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+
+### ✨ Features
+
+- 🤖 AI-Powered Insights
+- 📊 Developer Analysis
+- 📈 GitHub Analytics
+- 🔍 Repository Intelligence
+
+<p>
+
+<a href="YOUR_DEVSCOUT_GITHUB">
+
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+## 💬 PingMe
+
+> **Real-Time Chat Application**
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/WebSocket-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STOMP-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+
+### ✨ Features
+
+- 💬 Real-Time Messaging
+- 👥 Friend Requests
+- 🔔 Notifications
+- 🔒 Authentication
+- 📱 Responsive UI
+- 👨‍💼 Admin Dashboard
+
+<p>
+
+<a href="YOUR_PINGME_GITHUB">
+
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
