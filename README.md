@@ -1,48 +1,70 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soubhagya-behera/soubhagya-behera/main/banner3.png" alt="Soubhagya Banner" width="100%">
-</p>
+<div align="center">
 
-# Hi 👋, I'm Soubhagya Kumar Behera
+# Hi 👋 I'm Soubhagya Kumar Behera
 
-### Java Full Stack Developer | MCA 2026
+### Java Full Stack Developer
 
-💻 Building scalable applications with Java, Spring Boot, React, and MySQL
+Building scalable backend systems with Java, Spring Boot & React
 
-🎓 MCA Graduate, Bhubaneswar
+</div>
 
-🚀 Currently Working On:
+---
 
-* PingMe
-* DevScout AI
-* Data Structures & Algorithms
-* Spring Boot & System Design
+<div align="center">
 
-### Tech Stack
+<!-- Typing SVG -->
 
-* Java * Spring Boot * React.js * MySQL * Spring Security * Hibernate/JPA * REST APIs * Microservices * Docker * AWS * Git & GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;REST+API+Developer;Microservices+Learner;Open+to+Full-Time+Opportunities" />
 
-### Featured Projects
+</div>
 
-🛒 GreenCart – Full Stack E-Commerce Platform
+---
 
-🏦 Secure Digital Banking Management System
+<div align="center">
 
-🤖 AI Assistant Chrome Extension
+<a href="https://linkedin.com/in/soubhagyakumar-java">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💬 PingMe – Real-Time Chat Application
+<a href="https://github.com/soubhagya-behera">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-🚀 DevScout AI - GitHub Developer Intelligence Platform
+<a href="https://soubhagya-portfolio-olive.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
 
-### Current Goals
+<a href="mailto:soubhagyabehera074@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* Reach 300+ DSA Problems
-* Learn Microservices
-* Deploy Applications on AWS
+</div>
 
-### Connect With Me
+---
 
-📧 Email: [soubhagyabehera074@gmail.com](mailto:soubhagyabehera074@gmail.com)
+# 👨‍💻 About Me
 
-💼 LinkedIn: [linkedin.com/in/soubhagyakumar-java](https://linkedin.com/in/soubhagyakumar-java)
+```yaml
+name: Soubhagya Kumar Behera
 
-🌐 Portfolio: https://soubhagya-portfolio-olive.vercel.app
+role: Java Full Stack Developer
+
+location: Bhubaneswar, Odisha, India
+
+education: MCA Graduate
+
+currently_learning:
+  - Spring Microservices
+  - AWS
+  - System Design
+
+working_on:
+  - PingMe
+  - GreenCart
+  - DevScout AI
+
+looking_for:
+  - Full Time Java Developer Opportunities
+```
+
+---
