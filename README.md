@@ -240,3 +240,22 @@ open_to:
 ```
 
 ---
+# 📚 2026 Learning Roadmap
+
+| Status | Goal |
+|---------|------|
+| ✅ | Java & OOP |
+| ✅ | Spring Boot |
+| ✅ | Spring Security |
+| ✅ | React |
+| ✅ | REST APIs |
+| ✅ | Hibernate / JPA |
+| 🔄 | Microservices |
+| 🔄 | Redis |
+| 🔄 | Docker |
+| 🔄 | AWS |
+| ⏳ | Kubernetes |
+| ⏳ | CI/CD |
+| ⏳ | Kafka |
+
+---
