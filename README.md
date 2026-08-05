@@ -240,13 +240,3 @@ open_to:
 ```
 
 ---
-# 📜 Certifications
-
-| Certification | Status |
-|---------------|--------|
-| Java Programming | ✅ |
-| Spring Boot | 🔄 |
-| AWS Cloud Practitioner | ⏳ |
-| Docker | ⏳ |
-
----
