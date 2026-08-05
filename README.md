@@ -1,10 +1,36 @@
 <div align="center">
 
-# Hi 👋 I'm Soubhagya Kumar Behera
+<p align="center">
 
-### Java Full Stack Developer
+<img src="YOUR_BANNER_URL" width="100%" />
 
-Building scalable backend systems using Java, Spring Boot & React
+</p>
+
+<br>
+
+<h1 align="center">
+
+Hi 👋 I'm Soubhagya Kumar Behera
+
+</h1>
+
+<h3 align="center">
+
+Java Full Stack Developer
+
+</h3>
+
+<p align="center">
+
+Building scalable backend systems using Java, Spring Boot, React & Microservices
+
+</p>
+
+<p align="center">
+
+💼 Open to Full-Time Opportunities • 🚀 Passionate about Backend Engineering
+
+</p>
 
 </div>
 
@@ -14,7 +40,7 @@ Building scalable backend systems using Java, Spring Boot & React
 
 <!-- Typing SVG -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Java+Backend+Engineer;REST+API+Developer;Spring+Boot+Enthusiast;Open+to+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Java+Backend+Engineer;REST+API+Developer;Spring+Boot+Enthusiast;Open+to+Work" />
 
 </div>
 
@@ -180,6 +206,29 @@ looking_for:
 <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
 </p>
+---
+# 🚀 Current Focus
+
+```yaml
+currently_building:
+  - PingMe (Real-Time Chat Platform)
+  - DevScout AI (GitHub Developer Intelligence)
+  - Portfolio v2
+
+currently_learning:
+  - Spring Boot Microservices
+  - System Design
+  - Docker & AWS
+  - Redis
+
+career_goal:
+  - Java Backend Developer
+  - Full Stack Engineer
+
+open_to:
+  - Full-Time Opportunities
+  - Open Source Collaboration
+```
 
 ---
 # 📈 GitHub Analytics
@@ -213,30 +262,6 @@ looking_for:
 </p>
 
 ---
-# 🚀 Current Focus
-
-```yaml
-currently_building:
-  - PingMe (Real-Time Chat Platform)
-  - DevScout AI (GitHub Developer Intelligence)
-  - Portfolio v2
-
-currently_learning:
-  - Spring Boot Microservices
-  - System Design
-  - Docker & AWS
-  - Redis
-
-career_goal:
-  - Java Backend Developer
-  - Full Stack Engineer
-
-open_to:
-  - Full-Time Opportunities
-  - Open Source Collaboration
-```
-
----
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -253,8 +278,12 @@ open_to:
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-If you like my work, feel free to connect on LinkedIn.
+If you like my work, let's connect and build something amazing together.
+
+<br>
+
+Made with ❤️ using Markdown & GitHub Actions
 
 </div>
