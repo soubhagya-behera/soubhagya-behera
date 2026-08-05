@@ -87,7 +87,7 @@ looking_for:
 
 ## ☕ Backend
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
@@ -117,7 +117,7 @@ looking_for:
 
 ## 🎨 Frontend
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
@@ -133,7 +133,7 @@ looking_for:
 
 ## 🗄️ Databases
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -147,7 +147,7 @@ looking_for:
 
 ## ☁️ Cloud & DevOps
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
@@ -163,7 +163,7 @@ looking_for:
 
 ## 🛠️ Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
@@ -249,3 +249,12 @@ open_to:
 
 </p>
 
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to connect on LinkedIn.
+
+</div>
