@@ -69,7 +69,7 @@ Building scalable backend systems using Java, Spring Boot, React & Microservices
 ---
 
 # 👨‍💻 About Me
-
+<div align="center">
 ```yaml
 name: Soubhagya Kumar Behera
 
