@@ -6,8 +6,6 @@
 
 </p>
 
-<br>
-
 <h1 align="center">
 
 Hi 👋 I'm Soubhagya Kumar Behera
@@ -40,7 +38,7 @@ Building scalable backend systems using Java, Spring Boot, React & Microservices
 
 <!-- Typing SVG -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+Scalable+REST+APIs;Microservices+Enthusiast;Open+to+Full-Time+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+Scalable+REST+APIs;Backend+Engineering+Enthusiast;Open+to+Full-Time+Opportunities" />
 
 </div>
 
@@ -106,11 +104,11 @@ looking_for:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 </p>
 
@@ -122,25 +120,25 @@ looking_for:
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge"/>
 
 </p>
 
@@ -267,10 +265,12 @@ currently_building:
   - Portfolio v2
 
 currently_learning:
-  - Spring Boot Microservices
   - System Design
-  - Docker & AWS
+  - Spring Boot Microservices
+  - Docker
   - Redis
+  - AWS
+
 
 career_goal:
   - Java Backend Developer
@@ -281,15 +281,29 @@ open_to:
   - Open Source Collaboration
 ```
 
+---
+---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## 🤝 Let's Connect
 
-If you like my work, let's connect and build something amazing together.
+I'm always open to collaborating on exciting projects, discussing backend engineering, or exploring new opportunities.
 
-<br>
+<a href="https://linkedin.com/in/soubhagyakumar-java">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Made with ❤️ using Markdown & GitHub Actions
+<a href="mailto:soubhagyabehera074@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://soubhagya-portfolio-olive.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+⭐ Thanks for visiting my profile!
 
 </div>
