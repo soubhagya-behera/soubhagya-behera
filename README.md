@@ -282,7 +282,6 @@ open_to:
 ```
 
 ---
----
 
 <div align="center">
 
@@ -302,7 +301,7 @@ I'm always open to collaborating on exciting projects, discussing backend engine
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
 
-<br><br>
+<br>
 
 ⭐ Thanks for visiting my profile!
 
