@@ -208,29 +208,6 @@ looking_for:
 
 </p>
 
-# 🚀 Current Focus
-
-```yaml
-currently_building:
-  - PingMe (Real-Time Chat Platform)
-  - DevScout AI (GitHub Developer Intelligence)
-  - Portfolio v2
-
-currently_learning:
-  - Spring Boot Microservices
-  - System Design
-  - Docker & AWS
-  - Redis
-
-career_goal:
-  - Java Backend Developer
-  - Full Stack Engineer
-
-open_to:
-  - Full-Time Opportunities
-  - Open Source Collaboration
-```
-
 ---
 # 📈 GitHub Analytics
 
@@ -276,6 +253,30 @@ open_to:
 </p>
 
 ---
+
+# 🚀 Current Focus
+
+```yaml
+currently_building:
+  - PingMe (Real-Time Chat Platform)
+  - DevScout AI (GitHub Developer Intelligence)
+  - Portfolio v2
+
+currently_learning:
+  - Spring Boot Microservices
+  - System Design
+  - Docker & AWS
+  - Redis
+
+career_goal:
+  - Java Backend Developer
+  - Full Stack Engineer
+
+open_to:
+  - Full-Time Opportunities
+  - Open Source Collaboration
+```
+
 
 <div align="center">
 
