@@ -64,6 +64,10 @@ Building scalable backend systems using Java, Spring Boot, React & Microservices
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://drive.google.com/file/d/1XLZ1HgB8NeJmVN05pT67cZj66MNPAZ5q/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 </div>
 
 ---
