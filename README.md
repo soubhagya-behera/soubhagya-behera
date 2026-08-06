@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" />
+<img src="YOUR_BANNER_URL" width="100%" alt="Soubhagya Kumar Behera Banner" />
 
 </p>
 
