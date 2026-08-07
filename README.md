@@ -12,7 +12,7 @@ alt="Soubhagya Kumar Behera Banner"
 
 <h1 align="center">
 
-Hi 👋 I'm Soubhagya Kumar Behera
+# < Soubhagya Kumar Behera />
 
 </h1>
 
