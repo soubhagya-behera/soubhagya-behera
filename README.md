@@ -60,7 +60,7 @@ working_on:
 looking_for:
   - Full Time Java Developer Opportunities
 ```
-
+<br>
 
 # 🛠️ Tech Stack & Tools
 
