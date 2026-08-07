@@ -86,8 +86,6 @@ looking_for:
 
 </p>
 
----
-
 ## ☕ Backend
 
 <p align="center">
@@ -116,8 +114,6 @@ looking_for:
 
 </p>
 
----
-
 ## 🎨 Frontend
 
 <p align="center">
@@ -132,8 +128,6 @@ looking_for:
 
 </p>
 
----
-
 ## 🗄️ Databases
 
 <p align="center">
@@ -145,8 +139,6 @@ looking_for:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </p>
-
----
 
 ## ☁️ Cloud & DevOps
 
@@ -161,8 +153,6 @@ looking_for:
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 
 </p>
-
----
 
 ## 🛠️ Tools
 
