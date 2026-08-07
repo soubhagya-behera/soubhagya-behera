@@ -16,24 +16,6 @@ Hi 👋 I'm Soubhagya Kumar Behera
 
 </h1>
 
-<h3 align="center">
-
-Java Full Stack Developer
-
-</h3>
-
-<p align="center">
-
-Building scalable backend systems using Java, Spring Boot, React & Microservices
-
-</p>
-
-<p align="center">
-
-💼 Open to Full-Time Opportunities • 🚀 Passionate about Backend Engineering
-
-</p>
-
 </div>
 
 ---
