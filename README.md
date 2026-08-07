@@ -18,7 +18,6 @@ Hi 👋 I'm Soubhagya Kumar Behera
 
 </div>
 
----
 <div align="center">
 
 <a href="https://linkedin.com/in/soubhagyakumar-java">
