@@ -275,7 +275,6 @@ currently_learning:
   - Redis
   - AWS
 
-
 career_goal:
   - Java Backend Developer
   - Full Stack Engineer
