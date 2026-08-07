@@ -10,12 +10,6 @@ alt="Soubhagya Kumar Behera Banner"
 
 </p>
 
-<h1 align="center">
-
-# < Soubhagya Kumar Behera />
-
-</h1>
-
 </div>
 
 <div align="center">
