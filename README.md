@@ -42,8 +42,6 @@ alt="Soubhagya Kumar Behera Banner"
 
 </div>
 
----
-
 # 👨‍💻 About Me
 
 ```yaml
@@ -69,7 +67,6 @@ looking_for:
   - Full Time Java Developer Opportunities
 ```
 
----
 # 🛠️ Tech Stack & Tools
 
 ## 💻 Programming Languages
@@ -174,7 +171,6 @@ looking_for:
 
 </p>
 
----
 # 📈 GitHub Analytics
 
 <p align="center">
@@ -215,8 +211,6 @@ looking_for:
 
 </p>
 
----
-
 # 🚀 Current Focus
 
 ```yaml
@@ -240,8 +234,6 @@ open_to:
   - Full-Time Opportunities
   - Open Source Collaboration
 ```
-
----
 
 <div align="center">
 
