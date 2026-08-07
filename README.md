@@ -18,8 +18,6 @@ alt="Soubhagya Kumar Behera Banner"
 
 </div>
 
----
-
 <div align="center">
 
 <a href="https://linkedin.com/in/soubhagyakumar-java">
