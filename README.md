@@ -67,6 +67,7 @@ looking_for:
   - Full Time Java Developer Opportunities
 ```
 
+
 # 🛠️ Tech Stack & Tools
 
 ## 💻 Programming Languages
