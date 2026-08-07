@@ -187,7 +187,6 @@ looking_for:
 
 </p>
 
----
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -196,7 +195,6 @@ looking_for:
 
 </p>
 
----
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -205,7 +203,6 @@ looking_for:
 
 </p>
 
----
 # 🐍 Contribution Snake
 
 <p align="center">
