@@ -166,6 +166,8 @@ looking_for:
 
 </p>
 
+<br>
+
 # 📈 GitHub Analytics
 
 <p align="center">
