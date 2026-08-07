@@ -2,7 +2,11 @@
 
 <p align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" alt="Soubhagya Kumar Behera Banner" />
+<img
+src="https://raw.githubusercontent.com/soubhagya-behera/soubhagya-behera/main/github-banner.png"
+width="100%"
+alt="Soubhagya Kumar Behera Banner"
+/>
 
 </p>
 
