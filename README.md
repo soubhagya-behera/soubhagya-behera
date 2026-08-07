@@ -40,9 +40,10 @@ Building scalable backend systems using Java, Spring Boot, React & Microservices
 
 <div align="center">
 
-<!-- Typing SVG -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+Scalable+REST+APIs;Backend+Engineering+Enthusiast;Open+to+Full-Time+Opportunities" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Building+Scalable+REST+APIs;Backend+Engineering+Enthusiast;Open+to+Full-Time+Opportunities"
+alt="Typing SVG"
+/>
 
 </div>
 
