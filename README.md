@@ -54,8 +54,9 @@ currently_learning:
   - System Design
 
 working_on:
-  - PingMe
-  - DevScout AI
+  - Policy-Impact-Engine
+  - Falsh-Reserve
+  - Pingme
 
 looking_for:
   - Full Time Java Developer Opportunities
