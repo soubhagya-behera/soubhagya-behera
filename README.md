@@ -247,7 +247,7 @@ I'm always open to collaborating on exciting projects, discussing backend engine
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://soubhagya-portfolio-olive.vercel.app">
+<a href="https://soubhagya-dev.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
 
