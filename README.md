@@ -22,7 +22,7 @@ alt="Soubhagya Kumar Behera Banner"
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://soubhagya-portfolio-olive.vercel.app">
+<a href="https://soubhagya-dev.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
 
