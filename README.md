@@ -55,8 +55,8 @@ currently_learning:
 
 working_on:
   - Policy-Impact-Engine
-  - Falsh-Reserve
-  - Pingme
+  - Aegivault
+  - Flash-Reserve
 
 looking_for:
   - Full Time Java Developer Opportunities
@@ -205,8 +205,8 @@ looking_for:
 
 ```yaml
 currently_building:
-  - PingMe (Real-Time Chat Platform)
-  - DevScout AI (GitHub Developer Intelligence)
+  - Policy-Impact-Engine
+  - Aegivault
   - Portfolio v2
 
 currently_learning:
