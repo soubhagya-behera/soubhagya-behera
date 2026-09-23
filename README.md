@@ -42,7 +42,7 @@ alt="Soubhagya Kumar Behera Banner"
 
 name: Soubhagya Kumar Behera
 
-role: Java Full Stack Developer
+role: Java Full Stack Developer/ Java Backend Developer
 
 location: Bhubaneswar, Odisha, India
 
