@@ -82,7 +82,14 @@ AI-powered GitHub developer analysis platform that turns repository evidence int
 <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" height="22" />
 </p>
 
-[Repository](https://github.com/soubhagya-behera/DevScout-AI) · [Live Demo](https://dev-scout-ai.vercel.app)
+<p>
+<a href="https://github.com/soubhagya-behera/DevScout-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+</a>
+<a href="https://dev-scout-ai.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white" height="24" />
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +105,14 @@ High-concurrency flash-sale and ticket reservation engine designed to prevent se
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="22" />
 </p>
 
-[Repository](https://github.com/soubhagya-behera/Flash-Reserve) · [Live Demo](https://frontend-mu-six-21.vercel.app/)
+<p>
+<a href="https://github.com/soubhagya-behera/Flash-Reserve">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+</a>
+<a href="https://frontend-mu-six-21.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white" height="24" />
+</a>
+</p>
 
 </td>
 </tr>
@@ -116,7 +130,11 @@ Production data privacy and AI security platform currently under development.
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="22" />
 </p>
 
-[Repository](https://github.com/soubhagya-behera/aegivault)
+<p>
+<a href="https://github.com/soubhagya-behera/aegivault">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +149,11 @@ Policy change tracking and impact analysis platform built as a modular Spring Bo
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="22" />
 </p>
 
-[Repository](https://github.com/soubhagya-behera/policy-impact-engine)
+<p>
+<a href="https://github.com/soubhagya-behera/policy-impact-engine">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+</a>
+</p>
 
 </td>
 </tr>
@@ -231,39 +253,22 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 
 # 🚀 Current Focus
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
+<p align="center">
 
-### 🔨 Building
+<strong>🔨 Building</strong><br>
+Aegivault · Policy Impact Engine
 
-**Aegivault**
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
 
-**Policy Impact Engine**
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🌍 Open Source
-
-Java OSS contributions
-
+<strong>🌍 Open Source</strong><br>
 Kestra · MCP Java Testkit
 
-</td>
-<td align="center" width="33%" valign="top">
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
 
-### 📚 Learning
+<strong>📚 Learning</strong><br>
+System Design · Spring Boot Microservices · Docker · AWS
 
-System Design
-
-Spring Boot Microservices
-
-Docker · AWS
-
-</td>
-</tr>
-</table>
+</p>
 
 # 📈 GitHub Analytics
 
