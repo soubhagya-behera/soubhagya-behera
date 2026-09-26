@@ -253,43 +253,21 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 
 # 🚀 Current Focus
 
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
+```yaml
+building:
+  - Aegivault
+  - Policy Impact Engine
 
-### 🔨
+open_source:
+  - Kestra
+  - MCP Java Testkit
 
-**BUILDING**
-
-<sub>Aegivault</sub>
-<br>
-<sub>Policy Impact Engine</sub>
-
-</td>
-<td align="center" valign="top" width="33%">
-
-### 🌍
-
-**OPEN SOURCE**
-
-<sub>Kestra · MCP Java Testkit</sub>
-
-</td>
-<td align="center" valign="top" width="33%">
-
-### 📚
-
-**LEARNING**
-
-<sub>System Design</sub>
-<br>
-<sub>Spring Boot Microservices</sub>
-<br>
-<sub>Docker · AWS</sub>
-
-</td>
-</tr>
-</table>
+learning:
+  - System Design
+  - Spring Boot Microservices
+  - Docker
+  - AWS
+```
 
 # 📈 GitHub Analytics
 
