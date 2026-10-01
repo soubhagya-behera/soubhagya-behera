@@ -173,7 +173,7 @@ More projects are available on my <a href="https://github.com/soubhagya-behera?t
 
 Contributed a fix for inconsistent `nullValues` handling in nullable Avro unions, with regression coverage for both branch orders.
 
-**PR #423 · Open**
+**PR #423 · Merged ✅**
 
 [Repository](https://github.com/kestra-io/plugin-serdes) · [Pull Request](https://github.com/kestra-io/plugin-serdes/pull/423)
 
