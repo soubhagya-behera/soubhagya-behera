@@ -260,6 +260,7 @@ building:
   - Policy Impact Engine
 
 open_source:
+  - Quarkus
   - Kestra
   - MCP Java Testkit
 
