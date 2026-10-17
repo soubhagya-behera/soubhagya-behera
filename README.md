@@ -197,26 +197,26 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 ## 💻 Languages
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Java-A56716?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/SQL-00796B?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/C-546E7A?style=for-the-badge&logo=c&logoColor=white" height="28" />
 </p>
 
 ## ☕ Backend
 
 <p align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Spring_Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring_Security-37474F?style=for-the-badge&logo=springsecurity&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Hibernate-795548?style=for-the-badge&logo=hibernate&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/JPA-546E7A?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/JWT-1A237E?style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Microservices-02569B?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring_Framework-E65100?style=for-the-badge&logo=spring&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring_MVC-6A1B9A?style=for-the-badge&logo=spring&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Microservices-0277BD?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/JSP-AD1457?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
 </p>
@@ -226,36 +226,38 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0E7490?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
 </p>
 
 ## 🗄️ Databases
 
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/MySQL-B25E00?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Redisson-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Redisson-8E44AD?style=for-the-badge&logo=redis&logoColor=white" height="28" />
 </p>
 
 ## ☁️ Cloud & DevOps
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="28" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/AWS_EC2-AA6300?style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/GitHub_Actions-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-3F51B5?style=for-the-badge" height="28" />
 </p>
 
 ## 🧪 Testing
 
 <p align="center">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Mockito-78A540?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Mockito-8E44AD?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Unit_Testing-C2410C?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/API_Testing-1565C0?style=for-the-badge" height="28" />
 </p>
 
 ## 🛠️ Tools
@@ -263,9 +265,9 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 <p align="center">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Postman-B45309?style=for-the-badge&logo=postman&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Git-3E4C59?style=for-the-badge&logo=git&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="28" />
 </p>
 
