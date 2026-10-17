@@ -198,6 +198,7 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" />
@@ -212,6 +213,12 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Microservices-02569B?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
 </p>
 
 ## 🎨 Frontend
@@ -219,7 +226,7 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
 </p>
 
@@ -230,6 +237,7 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Redisson-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" />
 </p>
 
 ## ☁️ Cloud & DevOps
@@ -237,7 +245,17 @@ Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMV
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="28" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge" height="28" />
+</p>
+
+## 🧪 Testing
+
+<p align="center">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Mockito-78A540?style=for-the-badge" height="28" />
 </p>
 
 ## 🛠️ Tools
