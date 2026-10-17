@@ -40,7 +40,7 @@ alt="Soubhagya Kumar Behera Banner"
 
 ```yaml
 name: Soubhagya Kumar Behera
-role: Java Backend Developer
+role: Java Full Stack Developer
 location: Bhubaneswar, Odisha, India
 education: MCA Graduate, 2026
 
@@ -48,9 +48,9 @@ primary_focus:
   - Java
   - Spring Boot
   - REST APIs
+  - React.js
   - PostgreSQL
   - Redis
-  - Backend Engineering
   - Open Source
 
 currently_learning:
@@ -60,7 +60,7 @@ currently_learning:
   - AWS
 
 open_to:
-  - Full-Time Java Backend Opportunities
+  - Full-Time Java Full Stack/Backend Opportunities
   - Open Source Collaboration
 ```
 
