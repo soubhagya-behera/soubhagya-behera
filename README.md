@@ -169,9 +169,33 @@ More projects are available on my <a href="https://github.com/soubhagya-behera?t
 <tr>
 <td width="50%" valign="top">
 
+### 🟢 AgentJ — Java AI Agent Framework
+
+Fixed locale-sensitive keyword matching and added English/Turkish regression coverage.
+
+**PR #24 · Merged ✅**
+
+[Commit](https://github.com/soubhagya-behera/agentj/commit/5f06b3342d1a8dcad6d9567a4c5b2101dda18330)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 Quarkus
+
+Improved integration-test behavior when a test host is configured, with regression coverage.
+
+**PR #57221 · Open ⏳**
+
+[Repository](https://github.com/quarkusio/quarkus) · [Pull Request](https://github.com/quarkusio/quarkus/pull/57221)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔵 Kestra — plugin-serdes
 
-Contributed a fix for inconsistent `nullValues` handling in nullable Avro unions, with regression coverage for both branch orders.
+Fixed nullable Avro union `nullValues` handling with regression coverage for both branch orders.
 
 **PR #423 · Merged ✅**
 
@@ -182,9 +206,9 @@ Contributed a fix for inconsistent `nullValues` handling in nullable Avro unions
 
 ### 🟣 MCP Java Testkit
 
-Added verification for the `spring:` URL scheme with Spring AI WebFlux and WebMVC MCP server starters.
+Added verification for the `spring:` URL scheme across Spring AI WebFlux and WebMVC MCP server starters.
 
-**PR #25**
+**PR #25 · Open ⏳**
 
 [Repository](https://github.com/senor14/mcp-java-testkit) · [Pull Request](https://github.com/senor14/mcp-java-testkit/pull/25)
 
