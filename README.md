@@ -301,7 +301,7 @@ Added verification for the `spring:` URL scheme across Spring AI WebFlux and Web
 building:
   - Systivex
   - Aegivault
-  - Policy Impact Engine
+  - SoubhNiyam
 
 open_source:
   - Quarkus
@@ -311,7 +311,7 @@ open_source:
 learning:
   - System Design
   - Spring Boot Microservices
-  - Docker
+  - Kafka
   - AWS
 ```
 
