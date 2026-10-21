@@ -56,7 +56,7 @@ primary_focus:
 currently_learning:
   - System Design
   - Spring Boot Microservices
-  - Docker
+  - Kafka
   - AWS
 
 open_to:
