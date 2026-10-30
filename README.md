@@ -175,7 +175,7 @@ Fixed locale-sensitive keyword matching and added English/Turkish regression cov
 
 **PR #24 · Merged ✅**
 
-[Commit](https://github.com/soubhagya-behera/agentj/commit/5f06b3342d1a8dcad6d9567a4c5b2101dda18330)
+<a href="https://github.com/soubhagya-behera/agentj/commit/5f06b3342d1a8dcad6d9567a4c5b2101dda18330"><img src="https://img.shields.io/badge/Commit-10B981?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Commit" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -186,7 +186,7 @@ Improved integration-test behavior when a test host is configured, with regressi
 
 **PR #57221 · Open ⏳**
 
-[Repository](https://github.com/quarkusio/quarkus) · [Pull Request](https://github.com/quarkusio/quarkus/pull/57221)
+<a href="https://github.com/quarkusio/quarkus"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/quarkusio/quarkus/pull/57221"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
 
 </td>
 </tr>
@@ -199,7 +199,7 @@ Fixed nullable Avro union `nullValues` handling with regression coverage for bot
 
 **PR #423 · Merged ✅**
 
-[Repository](https://github.com/kestra-io/plugin-serdes) · [Pull Request](https://github.com/kestra-io/plugin-serdes/pull/423)
+<a href="https://github.com/kestra-io/plugin-serdes"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/kestra-io/plugin-serdes/pull/423"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -210,7 +210,7 @@ Added verification for the `spring:` URL scheme across Spring AI WebFlux and Web
 
 **PR #25 · Open ⏳**
 
-[Repository](https://github.com/senor14/mcp-java-testkit) · [Pull Request](https://github.com/senor14/mcp-java-testkit/pull/25)
+<a href="https://github.com/senor14/mcp-java-testkit"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/senor14/mcp-java-testkit/pull/25"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
 
 </td>
 </tr>
