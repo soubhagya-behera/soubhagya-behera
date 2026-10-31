@@ -46,8 +46,8 @@ education: MCA Graduate, 2026
 
 primary_focus:
   - Java
+  - Python
   - Spring Boot
-  - REST APIs
   - React.js
   - PostgreSQL
   - Redis
