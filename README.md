@@ -70,24 +70,20 @@ open_to:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 DevScout AI
+### 🧠 Systivex
 
-AI-powered GitHub developer analysis platform that turns repository evidence into structured technical insights and developer reports.
+Software-System Twin and Change Intelligence Platform for deterministic impact analysis, risk assessment, hypothetical simulation, governed proposals, and tamper-evident auditing.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22" />
-<img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square" height="22" />
-<img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" height="22" />
 </p>
 
 <p>
-<a href="https://github.com/soubhagya-behera/DevScout-AI">
+<a href="https://github.com/soubhagya-behera/systivex">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
-</a>
-<a href="https://dev-scout-ai.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white" height="24" />
 </a>
 </p>
 
@@ -119,20 +115,24 @@ High-concurrency flash-sale and ticket reservation engine designed to prevent se
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Aegivault
+### 🧠 DevScout AI
 
-Production data privacy and AI security platform currently under development.
+AI-powered GitHub developer analysis platform that turns repository evidence into structured technical insights and developer reports.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22" />
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square" height="22" />
+<img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" height="22" />
 </p>
 
 <p>
-<a href="https://github.com/soubhagya-behera/aegivault">
+<a href="https://github.com/soubhagya-behera/DevScout-AI">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+</a>
+<a href="https://dev-scout-ai.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white" height="24" />
 </a>
 </p>
 
@@ -150,7 +150,7 @@ Policy change tracking and impact analysis platform built as a modular Spring Bo
 </p>
 
 <p>
-<a href="https://github.com/soubhagya-behera/policy-impact-engine">
+<a href="https://github.com/soubhagya-behera/SoubhNiyam">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
 </a>
 </p>
