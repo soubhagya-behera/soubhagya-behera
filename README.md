@@ -204,13 +204,13 @@ Fixed nullable Avro union `nullValues` handling with regression coverage for bot
 </td>
 <td width="50%" valign="top">
 
-### 🟣 MCP Java Testkit
+### 📡 Streamshub Console
 
-Added verification for the `spring:` URL scheme across Spring AI WebFlux and WebMVC MCP server starters.
+Added a readiness check that waits for Kafka topic partition metadata and assigned leaders before the storage-sorting integration test.
 
-**PR #25 · Open ⏳**
+**PR #3118 · Merged ✅**
 
-<a href="https://github.com/senor14/mcp-java-testkit"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/senor14/mcp-java-testkit/pull/25"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
+<a href="https://github.com/streamshub/console"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/streamshub/console/pull/3118"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
 
 </td>
 </tr>
