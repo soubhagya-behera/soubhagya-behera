@@ -169,30 +169,6 @@ More projects are available on my <a href="https://github.com/soubhagya-behera?t
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 AgentJ — Java AI Agent Framework
-
-Fixed locale-sensitive keyword matching and added English/Turkish regression coverage.
-
-**PR #24 · Merged ✅**
-
-<a href="https://github.com/soubhagya-behera/agentj/commit/5f06b3342d1a8dcad6d9567a4c5b2101dda18330"><img src="https://img.shields.io/badge/Commit-10B981?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Commit" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔴 Quarkus
-
-Improved integration-test behavior when a test host is configured, with regression coverage.
-
-**PR #57221 · Open ⏳**
-
-<a href="https://github.com/quarkusio/quarkus"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/quarkusio/quarkus/pull/57221"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔵 Kestra — plugin-serdes
 
 Fixed nullable Avro union `nullValues` handling with regression coverage for both branch orders.
@@ -211,6 +187,30 @@ Added a readiness check that waits for Kafka topic partition metadata and assign
 **PR #3118 · Merged ✅**
 
 <a href="https://github.com/streamshub/console"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/streamshub/console/pull/3118"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 AgentJ — Java AI Agent Framework
+
+Fixed locale-sensitive keyword matching and added English/Turkish regression coverage.
+
+**PR #24 · Merged ✅**
+
+<a href="https://github.com/soubhagya-behera/agentj/commit/5f06b3342d1a8dcad6d9567a4c5b2101dda18330"><img src="https://img.shields.io/badge/Commit-10B981?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Commit" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 Quarkus
+
+Improved integration-test behavior when a test host is configured, with regression coverage.
+
+**PR #57221 · Open ⏳**
+
+<a href="https://github.com/quarkusio/quarkus"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/quarkusio/quarkus/pull/57221"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
 
 </td>
 </tr>
