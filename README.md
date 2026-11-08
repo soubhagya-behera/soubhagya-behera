@@ -216,6 +216,10 @@ Improved integration-test behavior when a test host is configured, with regressi
 </tr>
 </table>
 
+<p align="center">
+More open-source contributions and pull requests are available on my <a href="https://github.com/soubhagya-behera?tab=activity">GitHub profile</a>.
+</p>
+
 # 🛠️ Tech Stack
 
 ## 💻 Languages
