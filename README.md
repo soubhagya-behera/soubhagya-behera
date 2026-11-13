@@ -46,9 +46,15 @@ education: MCA Graduate, 2026
 
 primary_focus:
   - Java
-  - Python
   - Spring Boot
-  - React.js
+  - Backend Engineering
+  - System Design
+  - Distributed Systems
+  - Microservices
+  - AI Engineering
+  - Agentic AI & AI Agents
+  - Spring AI
+  - MCP (Model Context Protocol)
   - PostgreSQL
   - Redis
   - Open Source
