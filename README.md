@@ -50,7 +50,7 @@ open_to:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/12cLll5_8zNP7Jq_PVgiK81ONcldxfxxd/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Op1CybUAcFY7jmXHzjCJS2_kqyIBaVIV/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
@@ -339,7 +339,7 @@ learning:
 <a href="mailto:soubhagyabehera074@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/12cLll5_8zNP7Jq_PVgiK81ONcldxfxxd/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Op1CybUAcFY7jmXHzjCJS2_kqyIBaVIV/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 </p>
