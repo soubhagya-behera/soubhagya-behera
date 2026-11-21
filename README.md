@@ -320,6 +320,8 @@ learning:
 
 ## 🔥 GitHub Streak
 
+Consistency through building, learning, and contributing every day.
+
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=soubhagya-behera&theme=tokyonight&hide_border=true" />
 </p>
