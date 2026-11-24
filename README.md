@@ -55,7 +55,7 @@ open_to:
 
 ### 🧠 Systivex
 
-Software-System Twin and Change Intelligence Platform for deterministic impact analysis, risk assessment, hypothetical simulation, governed proposals, and tamper-evident auditing.
+Software-system twin platform for deterministic change-impact analysis, risk simulation and tamper-evident auditing.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="22" />
@@ -75,7 +75,7 @@ Software-System Twin and Change Intelligence Platform for deterministic impact a
 
 ### ⚡ FlashReserve
 
-High-concurrency flash-sale and ticket reservation engine designed to prevent seat overselling under contention.
+High-concurrency flash-sale reservation engine that prevents seat overselling under contention.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="22" />
@@ -98,16 +98,35 @@ High-concurrency flash-sale and ticket reservation engine designed to prevent se
 <tr>
 <td width="50%" valign="top">
 
+### 🎯 CampusLink
+
+Career-intelligence platform backed by a TypeScript Express API with deterministic rule-based role matching and evidence-linked student profiles.
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="22" />
+</p>
+
+<p>
+<a href="https://github.com/soubhagya-behera/campus-link">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 DevScout AI
 
-AI-powered GitHub developer analysis platform that turns repository evidence into structured technical insights and developer reports.
+GitHub developer intelligence platform that turns repository evidence into structured technical and hiring insights.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="22" />
 <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square" height="22" />
-<img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" height="22" />
 </p>
 
 <p>
@@ -116,25 +135,6 @@ AI-powered GitHub developer analysis platform that turns repository evidence int
 </a>
 <a href="https://dev-scout-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=vercel&logoColor=white" height="24" />
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Policy Impact Engine
-
-Policy change tracking and impact analysis platform built as a modular Spring Boot backend.
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="22" />
-</p>
-
-<p>
-<a href="https://github.com/soubhagya-behera/SoubhNiyam">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
 </a>
 </p>
 
