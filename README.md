@@ -2,33 +2,24 @@
 
 ```yaml
 name: Soubhagya Kumar Behera
-role: Java Full Stack Developer
+role: Software Engineer
+focus: Backend & Full-Stack Engineering | AI-Native Development
 location: Bhubaneswar, Odisha, India
 education: MCA Graduate, 2026
 
-primary_focus:
-  - Java
-  - Spring Boot
-  - Backend Engineering
-  - System Design
-  - Distributed Systems
-  - Microservices
-  - AI Engineering
-  - Agentic AI & AI Agents
-  - Spring AI
-  - MCP (Model Context Protocol)
-  - PostgreSQL
-  - Redis
-  - Open Source
+expertise:
+  - Java & Spring Boot
+  - Node.js & Express
+  - System Design & Distributed Systems
+  - AI Engineering & Agentic Development
+  - Open Source Contributions
 
 currently_learning:
-  - System Design
-  - Spring Boot Microservices
-  - Kafka
+  - Apache Kafka
   - AWS
 
 open_to:
-  - Full-Time Java Full Stack/Backend Opportunities
+  - Software Engineering Opportunities
   - Open Source Collaboration
 ```
 
