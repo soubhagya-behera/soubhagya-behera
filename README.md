@@ -150,40 +150,46 @@ More projects are available on my <a href="https://github.com/soubhagya-behera?t
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px;">
+<td width="50%" valign="top">
 
-<strong style="color: #2da44e;">Merged Contributions</strong>
+<strong>🟢 Merged Contributions</strong>
 
-### 🔵 [Kestra — plugin-serdes](https://github.com/kestra-io/plugin-serdes)
+### 🔵 **Kestra — plugin-serdes**
 
 Fixed nullable Avro union `nullValues` handling consistently across branch orders.
 
 [PR #423](https://github.com/kestra-io/plugin-serdes/pull/423) · <img src="https://img.shields.io/badge/Merged-2da44e?style=flat-square" height="18" alt="Merged" />
 
-### 📡 [Streamshub Console](https://github.com/streamshub/console)
+<hr />
+
+### 📡 **Streamshub Console**
 
 Added Kafka topic-leader and replica-storage readiness checks to improve integration-test reliability.
 
 [PR #3118](https://github.com/streamshub/console/pull/3118), [PR #3119](https://github.com/streamshub/console/pull/3119) · <img src="https://img.shields.io/badge/Merged-2da44e?style=flat-square" height="18" alt="Merged" />
 
-### 🟢 [Quarkus](https://github.com/quarkusio/quarkus)
+<hr />
+
+### 🟢 **Quarkus**
 
 Documented Qute dependency template configuration.
 
 [PR #58226](https://github.com/quarkusio/quarkus/pull/58226) · <img src="https://img.shields.io/badge/Merged-2da44e?style=flat-square" height="18" alt="Merged" />
 
 </td>
-<td width="50%" valign="top" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px;">
+<td width="50%" valign="top">
 
-<strong style="color: #9a6700;">In Review</strong>
+<strong>🟡 In Review</strong>
 
-### 📡 [Streamshub Console](https://github.com/streamshub/console)
+### 📡 **Streamshub Console**
 
 Added Kafka configuration descriptions to resource configuration tables.
 
 [PR #3158](https://github.com/streamshub/console/pull/3158) · <img src="https://img.shields.io/badge/Open-9a6700?style=flat-square" height="18" alt="Open" />
 
-### 🔴 [Kestra](https://github.com/kestra-io/kestra)
+<hr />
+
+### 🔴 **Kestra**
 
 Fixed shutdown handling so a context shutdown failure cannot prevent the worker process from exiting.
 
