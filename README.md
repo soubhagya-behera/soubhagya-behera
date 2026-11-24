@@ -150,57 +150,51 @@ More projects are available on my <a href="https://github.com/soubhagya-behera?t
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px;">
 
-### 🔵 Kestra — plugin-serdes
+<strong style="color: #2da44e;">Merged Contributions</strong>
 
-Fixed nullable Avro union `nullValues` handling with regression coverage for both branch orders.
+### 🔵 [Kestra — plugin-serdes](https://github.com/kestra-io/plugin-serdes)
 
-**PR #423 · Merged ✅**
+Fixed nullable Avro union `nullValues` handling consistently across branch orders.
 
-<a href="https://github.com/kestra-io/plugin-serdes"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/kestra-io/plugin-serdes/pull/423"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
+[PR #423](https://github.com/kestra-io/plugin-serdes/pull/423) · <img src="https://img.shields.io/badge/Merged-2da44e?style=flat-square" height="18" alt="Merged" />
 
-</td>
-<td width="50%" valign="top">
+### 📡 [Streamshub Console](https://github.com/streamshub/console)
 
-### 📡 Streamshub Console
+Added Kafka topic-leader and replica-storage readiness checks to improve integration-test reliability.
 
-Added a readiness check that waits for Kafka topic partition metadata and assigned leaders before the storage-sorting integration test.
+[PR #3118](https://github.com/streamshub/console/pull/3118), [PR #3119](https://github.com/streamshub/console/pull/3119) · <img src="https://img.shields.io/badge/Merged-2da44e?style=flat-square" height="18" alt="Merged" />
 
-**PR #3118 · Merged ✅**
+### 🟢 [Quarkus](https://github.com/quarkusio/quarkus)
 
-<a href="https://github.com/streamshub/console"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/streamshub/console/pull/3118"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
+Documented Qute dependency template configuration.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 AgentJ — Java AI Agent Framework
-
-Fixed locale-sensitive keyword matching and added English/Turkish regression coverage.
-
-**PR #24 · Merged ✅**
-
-<a href="https://github.com/soubhagya-behera/agentj/commit/5f06b3342d1a8dcad6d9567a4c5b2101dda18330"><img src="https://img.shields.io/badge/Commit-10B981?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Commit" /></a>
+[PR #58226](https://github.com/quarkusio/quarkus/pull/58226) · <img src="https://img.shields.io/badge/Merged-2da44e?style=flat-square" height="18" alt="Merged" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px;">
 
-### 🔴 Quarkus
+<strong style="color: #9a6700;">In Review</strong>
 
-Improved integration-test behavior when a test host is configured, with regression coverage.
+### 📡 [Streamshub Console](https://github.com/streamshub/console)
 
-**PR #57221 · Open ⏳**
+Added Kafka configuration descriptions to resource configuration tables.
 
-<a href="https://github.com/quarkusio/quarkus"><img src="https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Repository" /></a> <a href="https://github.com/quarkusio/quarkus/pull/57221"><img src="https://img.shields.io/badge/Pull_Request-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Pull Request" /></a>
+[PR #3158](https://github.com/streamshub/console/pull/3158) · <img src="https://img.shields.io/badge/Open-9a6700?style=flat-square" height="18" alt="Open" />
+
+### 🔴 [Kestra](https://github.com/kestra-io/kestra)
+
+Fixed shutdown handling so a context shutdown failure cannot prevent the worker process from exiting.
+
+[PR #21741](https://github.com/kestra-io/kestra/pull/21741) · <img src="https://img.shields.io/badge/Open-9a6700?style=flat-square" height="18" alt="Open" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-More open-source contributions and pull requests are available on my <a href="https://github.com/soubhagya-behera">GitHub profile</a>.
+More contributions on my <a href="https://github.com/soubhagya-behera">GitHub profile</a>.
 </p>
 
 # 🛠️ Tech Stack
