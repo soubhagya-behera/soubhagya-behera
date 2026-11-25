@@ -287,26 +287,6 @@ More contributions on my <a href="https://github.com/soubhagya-behera">GitHub pr
 <img src="https://cdn.simpleicons.org/github/7D8590" width="20" height="20" alt="GitHub logo" /> GitHub
 </p>
 
-# 🚀 Current Focus
-
-```yaml
-building:
-  - Systivex — Change Impact Analysis & Risk Simulation
-  - Aegivault
-  - SoubhNiyam
-
-open_source:
-  - Quarkus
-  - Kestra
-  - MCP Java Testkit
-
-learning:
-  - System Design
-  - Spring Boot Microservices
-  - Kafka
-  - AWS
-```
-
 # 📈 GitHub Analytics
 
 <p align="center">
