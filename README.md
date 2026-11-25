@@ -205,81 +205,86 @@ More contributions on my <a href="https://github.com/soubhagya-behera">GitHub pr
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-A56716?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
-<img src="https://img.shields.io/badge/SQL-00796B?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/C-546E7A?style=for-the-badge&logo=c&logoColor=white" height="28" />
+<img src="https://cdn.simpleicons.org/openjdk/E76F00" width="20" height="20" alt="Java logo" /> Java &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" width="20" height="20" alt="Python logo" /> Python &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/B8860B" width="20" height="20" alt="JavaScript logo" /> JavaScript &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="20" height="20" alt="TypeScript logo" /> TypeScript &nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi/database.svg?color=%234169E1" width="20" height="20" alt="Database icon" /> SQL
 </p>
 
-## ☕ Backend
+<hr />
+
+### ⚙️ Backend Engineering
 
 <p align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Spring_Security-37474F?style=for-the-badge&logo=springsecurity&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Hibernate-795548?style=for-the-badge&logo=hibernate&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/JPA-546E7A?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/JWT-1A237E?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/Spring_Framework-E65100?style=for-the-badge&logo=spring&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Spring_MVC-6A1B9A?style=for-the-badge&logo=spring&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Microservices-0277BD?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/JSP-AD1457?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
+<img src="https://cdn.simpleicons.org/springboot/5B9E34" width="20" height="20" alt="Spring Boot logo" /> Spring Boot &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/springsecurity/5B9E34" width="20" height="20" alt="Spring Security logo" /> Spring Security &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/spring/5B9E34" width="20" height="20" alt="Spring logo" /> Spring Data JPA &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hibernate/4E6570" width="20" height="20" alt="Hibernate logo" /> Hibernate &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/3E8734" width="20" height="20" alt="Node.js logo" /> Node.js &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/8A8A8A" width="20" height="20" alt="Express.js logo" /> Express.js &nbsp;&nbsp;&nbsp; REST APIs · JWT · Microservices
 </p>
 
-## 🎨 Frontend
+<hr />
+
+### 🎨 Frontend Development
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0E7490?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
+<img src="https://cdn.simpleicons.org/react/0891B2" width="20" height="20" alt="React logo" /> React &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="20" height="20" alt="Angular logo" /> Angular &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="20" height="20" alt="HTML5 logo" /> HTML5 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/1572B6" width="20" height="20" alt="CSS3 logo" /> CSS3 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/0891B2" width="20" height="20" alt="Tailwind CSS logo" /> Tailwind CSS
 </p>
 
-## 🗄️ Databases
+<hr />
+
+### 🗄️ Databases & Caching
 
 <p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/MySQL-B25E00?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Redisson-8E44AD?style=for-the-badge&logo=redis&logoColor=white" height="28" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20" height="20" alt="PostgreSQL logo" /> PostgreSQL &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/2E8BC0" width="20" height="20" alt="MySQL logo" /> MySQL &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="20" height="20" alt="MongoDB logo" /> MongoDB &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="20" height="20" alt="Redis and Redisson logo" /> Redis / Redisson
 </p>
 
-## ☁️ Cloud & DevOps
+<hr />
+
+### 🤖 AI & LLM Engineering
 
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/AWS_EC2-AA6300?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/GitHub_Actions-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-3F51B5?style=for-the-badge" height="28" />
+<img src="https://cdn.simpleicons.org/spring/5B9E34" width="20" height="20" alt="Spring logo" /> Spring AI &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="20" height="20" alt="Gemini API logo" /> Gemini API &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/5B8DEF" width="20" height="20" alt="Ollama logo" /> Ollama &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/modelcontextprotocol/7B61FF" width="20" height="20" alt="Model Context Protocol (MCP) logo" /> MCP &nbsp;&nbsp;&nbsp; Generative AI · LLM Integration · AI Agents · Agentic AI
 </p>
 
-## 🧪 Testing
+<hr />
+
+### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Mockito-8E44AD?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/Unit_Testing-C2410C?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/API_Testing-1565C0?style=for-the-badge" height="28" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" height="20" alt="Microsoft Azure logo" /> Microsoft Azure &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="20" height="20" alt="Docker logo" /> Docker &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="20" height="20" alt="Git logo" /> Git &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="20" height="20" alt="GitHub Actions logo" /> GitHub Actions
 </p>
 
-## 🛠️ Tools
+<hr />
+
+### 🧪 Testing & Developer Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Postman-B45309?style=for-the-badge&logo=postman&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Git-3E4C59?style=for-the-badge&logo=git&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="28" />
+<img src="https://cdn.simpleicons.org/junit5/25A162" width="20" height="20" alt="JUnit 5 logo" /> JUnit 5 &nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/flask-conical.svg?color=%237B61FF" width="20" height="20" alt="Testing icon" /> Mockito &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="20" height="20" alt="Apache Maven logo" /> Maven &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="20" height="20" alt="Postman logo" /> Postman &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/intellijidea/7A7A7A" width="20" height="20" alt="IntelliJ IDEA logo" /> IntelliJ IDEA &nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="20" height="20" alt="VS Code logo" /> VS Code &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/7D8590" width="20" height="20" alt="GitHub logo" /> GitHub
 </p>
 
 # 🚀 Current Focus
