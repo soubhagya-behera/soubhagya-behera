@@ -29,10 +29,6 @@ open_to:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/soubhagya-behera">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://soubhagya-dev.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
@@ -291,24 +287,4 @@ More contributions on my <a href="https://github.com/soubhagya-behera">GitHub pr
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=soubhagya-behera&theme=github-dark&hide_border=true" alt="GitHub contribution statistics showing total contributions, current streak and longest streak." />
-</p>
-
-# 🤝 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/soubhagyakumar-java">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/soubhagya-behera">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://soubhagya-dev.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge" />
-</a>
-<a href="mailto:soubhagyabehera074@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://drive.google.com/file/d/1Op1CybUAcFY7jmXHzjCJS2_kqyIBaVIV/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
 </p>
