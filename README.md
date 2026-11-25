@@ -287,19 +287,10 @@ More contributions on my <a href="https://github.com/soubhagya-behera">GitHub pr
 <img src="https://cdn.simpleicons.org/github/7D8590" width="20" height="20" alt="GitHub logo" /> GitHub
 </p>
 
-# 📈 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=soubhagya-behera&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/soubhagya-behera?label=Followers&style=for-the-badge" />
-</p>
-
-## 🔥 GitHub Streak
-
-Consistency through building, learning, and contributing every day.
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=soubhagya-behera&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=soubhagya-behera&theme=github-dark&hide_border=true" alt="GitHub contribution statistics showing total contributions, current streak and longest streak." />
 </p>
 
 # 🤝 Let's Connect
