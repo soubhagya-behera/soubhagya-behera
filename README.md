@@ -17,6 +17,7 @@ expertise:
 currently_learning:
   - Apache Kafka
   - AWS
+  - Microservices 
 
 open_to:
   - Software Engineering Opportunities
